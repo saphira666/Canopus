@@ -1,0 +1,12 @@
+C:\Users\wil.rrsilva\Desktop\Canoppus\Canoppus.DTO\bin\Debug\Canoppus.DTO.dll
+C:\Users\wil.rrsilva\Desktop\Canoppus\Canoppus.DTO\bin\Debug\Canoppus.DTO.pdb
+C:\Users\wil.rrsilva\Desktop\Canoppus\Canoppus.DTO\obj\Debug\Canoppus.DTO.csproj.CoreCompileInputs.cache
+C:\Users\wil.rrsilva\Desktop\Canoppus\Canoppus.DTO\obj\Debug\Canoppus.DTO.dll
+C:\Users\wil.rrsilva\Desktop\Canoppus\Canoppus.DTO\obj\Debug\Canoppus.DTO.pdb
+C:\Users\wil.rrsilva\source\repos\Canoppus\Canoppus.DTO\bin\Debug\Canoppus.DTO.dll
+C:\Users\wil.rrsilva\source\repos\Canoppus\Canoppus.DTO\bin\Debug\Canoppus.DTO.pdb
+C:\Users\wil.rrsilva\source\repos\Canoppus\Canoppus.DTO\obj\Debug\Canoppus.DTO.csproj.AssemblyReference.cache
+C:\Users\wil.rrsilva\source\repos\Canoppus\Canoppus.DTO\obj\Debug\Canoppus.DTO.csproj.CoreCompileInputs.cache
+C:\Users\wil.rrsilva\source\repos\Canoppus\Canoppus.DTO\obj\Debug\Canoppus.DTO.dll
+C:\Users\wil.rrsilva\source\repos\Canoppus\Canoppus.DTO\obj\Debug\Canoppus.DTO.pdb
+C:\Users\wil.rrsilva\Desktop\Canoppus\Canoppus.DTO\obj\Debug\Canoppus.DTO.csproj.AssemblyReference.cache

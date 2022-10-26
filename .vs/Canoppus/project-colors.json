@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6bf958e0-e504-403e-b10b-8007d1326d7b": {
+      "ProjectGuid": "6bf958e0-e504-403e-b10b-8007d1326d7b",
+      "DisplayName": "Canoppus.UI",
+      "ColorIndex": 0
+    },
+    "53202675-b306-400a-b358-5a19e2f15a35": {
+      "ProjectGuid": "53202675-b306-400a-b358-5a19e2f15a35",
+      "DisplayName": "Canoppus.BLL",
+      "ColorIndex": 1
+    },
+    "66be02dc-c265-4e3b-8e29-88bd38265f3c": {
+      "ProjectGuid": "66be02dc-c265-4e3b-8e29-88bd38265f3c",
+      "DisplayName": "Canoppus.DTO",
+      "ColorIndex": 2
+    },
+    "f967975c-954c-435e-8cf4-f16ea15f58d8": {
+      "ProjectGuid": "f967975c-954c-435e-8cf4-f16ea15f58d8",
+      "DisplayName": "Canoppus.DAL",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
